@@ -1,0 +1,32 @@
+.timer {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  font-size: 1.2em;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #1e90ff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #00bfff;
+}
+
+button:active {
+  background-color: #00bfff;
+  transform: translateY(2px);
+}
